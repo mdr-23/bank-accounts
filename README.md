@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín del Rosario</h1>
-<h3 align="center">A passionate frontend developer from Argentina 🇦🇷, now living in Germany 🇩🇪</h3>
+<h3 align="center">A passionate frontend developer from Argentina 🇦🇷 based in Germany 🇩🇪</h3>
 
 - 🔭 I’m currently working on [Lemur Media Studio](https://lemur-media-studio.github.io/portfolio/index.html)
 
